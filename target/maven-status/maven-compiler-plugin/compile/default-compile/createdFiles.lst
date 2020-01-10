@@ -1,0 +1,9 @@
+io\nirahtech\gepeen\persistence\CrudRepositoryOrchestrator.class
+io\nirahtech\gepeen\persistence\EntityRepository.class
+io\nirahtech\gepeen\persistence\EntityService.class
+io\nirahtech\gepeen\Program.class
+io\nirahtech\gepeen\persistence\Service.class
+io\nirahtech\gepeen\persistence\Searchable.class
+io\nirahtech\gepeen\property\Identifier.class
+io\nirahtech\gepeen\persistence\Database.class
+io\nirahtech\gepeen\persistence\Repository.class

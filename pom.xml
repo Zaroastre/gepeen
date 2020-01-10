@@ -12,6 +12,14 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
+
+	<repositories>
+        <repository>
+            <id>nirahtech-maven-repository</id>
+            <name>Nirah-Technology Personnal Maven Repository</name>
+            <url>https://github.com/nirah-technology/nirahtech-maven-repository</url>
+        </repository>
+    </repositories>
 	
 	<dependencies>
 
